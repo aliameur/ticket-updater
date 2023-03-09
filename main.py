@@ -39,7 +39,7 @@ def main():
     prev_data = None
 
     # Main loop
-    print('Ticket checker starting!')
+    print('Ticket checker starting!!!!!!!!!!')
     while True:
         try:
             print("new loop")
@@ -73,4 +73,5 @@ def main():
 
 
 if __name__ == '__main__':
+    # run this
     main()
